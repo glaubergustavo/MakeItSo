@@ -1,0 +1,154 @@
+{
+    "favorites": {
+        "id": 1,
+        "name": "Meus Favoritos",
+        "audios": [
+            {
+                "Id": 1,
+                "title": "A automedicação pode levar muitas pessoas",
+                "category": "favorites",
+                "image": "capas_audios",
+                "url": "https://www.example.com/audio/exemplo_audio.mp3",
+                "description": "Saiba como reconhecer sua saúde por completo ouvindo os áudios dos especialistas em diversos assuntos."
+            },
+            {
+                "Id": 2,
+                "title": "Vacinação infantil e os cuidados que os pais",
+                "category": "favorites",
+                "image": "capas_audios_2",
+                "url": "https://www.example.com/audio/exemplo_audio.mp3",
+                "description": "Saiba como reconhecer sua saúde por completo ouvindo os áudios dos especialistas em diversos assuntos."
+            },
+            {
+                "Id": 3,
+                "title": "Os exames preventivos mais importantes para a mulher",
+                "category": "favorites",
+                "image": "capas_audios_3",
+                "url": "https://www.example.com/audio/exemplo_audio.mp3",
+                "description": "Saiba como reconhecer sua saúde por completo ouvindo os áudios dos especialistas em diversos assuntos."
+            },
+            {
+                "Id": 4,
+                "title": "Como as relações de trabalho podem",
+                "category": "favorites",
+                "image": "capas_audios_4",
+                "url": "https://www.example.com/audio/exemplo_audio.mp3",
+                "description": "Saiba como reconhecer sua saúde por completo ouvindo os áudios dos especialistas em diversos assuntos."
+            }
+        ]
+    },
+    "pillars": {
+        "id": 2,
+        "name": "7 Pilares da Saúde",
+        "audios": [
+            {
+                "Id": 1,
+                "title": "A automedicação pode levar muitas pessoas",
+                "category": "pillars",
+                "image": "capas_audios",
+                "url": "https://www.example.com/audio/exemplo_audio.mp3",
+                "description": "Saiba como reconhecer sua saúde por completo ouvindo os áudios dos especialistas em diversos assuntos."
+            },
+            {
+                "Id": 2,
+                "title": "Vacinação infantil e os cuidados que os pais",
+                "category": "pillars",
+                "image": "capas_audios_2",
+                "url": "https://www.example.com/audio/exemplo_audio.mp3",
+                "description": "Saiba como reconhecer sua saúde por completo ouvindo os áudios dos especialistas em diversos assuntos."
+            },
+            {
+                "Id": 3,
+                "title": "Os exames preventivos mais importantes para a mulher",
+                "category": "pillars",
+                "image": "capas_audios_3",
+                "url": "https://www.example.com/audio/exemplo_audio.mp3",
+                "description": "Saiba como reconhecer sua saúde por completo ouvindo os áudios dos especialistas em diversos assuntos."
+            },
+            {
+                "Id": 4,
+                "title": "Como as relações de trabalho podem",
+                "category": "pillars",
+                "image": "capas_audios_4",
+                "url": "https://www.example.com/audio/exemplo_audio.mp3",
+                "description": "Saiba como reconhecer sua saúde por completo ouvindo os áudios dos especialistas em diversos assuntos."
+            }
+        ]
+    },
+    "trending": {
+        "id": 3,
+        "name": "Em alta",
+        "audios": [
+            {
+                "Id": 1,
+                "title": "A automedicação pode levar muitas pessoas",
+                "category": "trending",
+                "image": "capas_audios",
+                "url": "https://www.example.com/audio/exemplo_audio.mp3",
+                "description": "Saiba como reconhecer sua saúde por completo ouvindo os áudios dos especialistas em diversos assuntos."
+            },
+            {
+                "Id": 2,
+                "title": "Vacinação infantil e os cuidados que os pais",
+                "category": "trending",
+                "image": "capas_audios_2",
+                "url": "https://www.example.com/audio/exemplo_audio.mp3",
+                "description": "Saiba como reconhecer sua saúde por completo ouvindo os áudios dos especialistas em diversos assuntos."
+            },
+            {
+                "Id": 3,
+                "title": "Os exames preventivos mais importantes para a mulher",
+                "category": "trending",
+                "image": "capas_audios_3",
+                "url": "https://www.example.com/audio/exemplo_audio.mp3",
+                "description": "Saiba como reconhecer sua saúde por completo ouvindo os áudios dos especialistas em diversos assuntos."
+            },
+            {
+                "Id": 4,
+                "title": "Como as relações de trabalho podem",
+                "category": "trending",
+                "image": "capas_audios_4",
+                "url": "https://www.example.com/audio/exemplo_audio.mp3",
+                "description": "Saiba como reconhecer sua saúde por completo ouvindo os áudios dos especialistas em diversos assuntos."
+            }
+        ]
+    },
+    "recommended": {
+        "id": 4,
+        "name": "Recomendados",
+        "audios": [
+            {
+                "Id": 1,
+                "title": "A automedicação pode levar muitas pessoas",
+                "category": "recommended",
+                "image": "capas_audios",
+                "url": "https://www.example.com/audio/exemplo_audio.mp3",
+                "description": "Saiba como reconhecer sua saúde por completo ouvindo os áudios dos especialistas em diversos assuntos."
+            },
+            {
+                "Id": 2,
+                "title": "Vacinação infantil e os cuidados que os pais",
+                "category": "recommended",
+                "image": "capas_audios_2",
+                "url": "https://www.example.com/audio/exemplo_audio.mp3",
+                "description": "Saiba como reconhecer sua saúde por completo ouvindo os áudios dos especialistas em diversos assuntos."
+            },
+            {
+                "Id": 3,
+                "title": "Os exames preventivos mais importantes para a mulher",
+                "category": "recommended",
+                "image": "capas_audios_3",
+                "url": "https://www.example.com/audio/exemplo_audio.mp3",
+                "description": "Saiba como reconhecer sua saúde por completo ouvindo os áudios dos especialistas em diversos assuntos."
+            },
+            {
+                "Id": 4,
+                "title": "Como as relações de trabalho podem",
+                "category": "recommended",
+                "image": "capas_audios_4",
+                "url": "https://www.example.com/audio/exemplo_audio.mp3",
+                "description": "Saiba como reconhecer sua saúde por completo ouvindo os áudios dos especialistas em diversos assuntos."
+            }
+        ]
+    }
+}
